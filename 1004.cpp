@@ -30,5 +30,5 @@ int main()
 	}
 	cout << Max_name << " " << Max_id << endl;
 	cout << Min_name << " " << Min_id << endl;
-	return 0;
+	return 0;;
 }
